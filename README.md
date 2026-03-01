@@ -1,1 +1,1 @@
-This repository contains test cases written in Markdown format for a basic calculator application, covering arithmetic operations and input validation scenarios.
+This repository contains internship tasks focused on software testing, cross-browser compatibility, and structured documentation.
